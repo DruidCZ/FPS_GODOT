@@ -1,0 +1,17 @@
+[gd_scene format=2]
+
+[node name="UI" type="Control"]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -64.0
+
+[node name="interaction_text" type="Label" parent="."]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -43.0
+text = "TEXT
+"
+align = 1
+valign = 1
